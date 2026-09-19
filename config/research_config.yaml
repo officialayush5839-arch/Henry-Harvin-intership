@@ -1,0 +1,23 @@
+# Research Configuration Parameters
+# Pharmacovigilance Research Study Setup
+
+topic: "Pharmacovigilance of Semaglutide (GLP-1 Receptor Agonist)"
+primary_drug: "Semaglutide"
+brand_names:
+  - "Ozempic"
+  - "Wegovy"
+  - "Rybelsus"
+comparator_class: "SGLT2 Inhibitors"
+comparator_drugs:
+  - "Empagliflozin"
+  - "Dapagliflozin"
+  - "Canagliflozin"
+target_adr_category: "Psychiatric Adverse Events"
+target_meddra_terms:
+  - "Depression"
+  - "Suicidal ideation"
+  - "Anxiety"
+  - "Insomnia"
+data_source: "FDA FAERS"
+date_range: "2018-2025"
+research_question: "Is Semaglutide associated with disproportionately higher psychiatric ADR reporting vs SGLT2 inhibitors in FAERS?"

@@ -1,0 +1,15 @@
+Methodological_Component,Published_Study_Approach,Best_Practice_Expectation,Assessment_Observation,Potential_Improvement
+Research Question,STEP 1 had clear PICO,Specific measurable question,Meets standard but focus is efficacy over safety,Explicit incorporation of psychiatric safety as primary/secondary objective
+Study Design,RCT double-blind placebo-controlled,Appropriate for objective,Meets gold standard but no active comparator,"Inclusion of active comparator (e.g., Liraglutide) to benchmark safety"
+Sample Size,"N=1,961 (2:1)",Adequate power calculation,Adequate for primary but limited for rare ADRs (Rule of Three),Larger pooled safety cohorts or post-market pharmacovigilance for rare AEs
+Sample Selection,"BMI>=30 or >=27 with comorbidity, no diabetes",Representative,Excludes diabetes and psychiatric conditions,More inclusive criteria to evaluate real-world psychiatric safety profile
+Controls,Placebo + lifestyle intervention,Appropriate comparator,No active comparator limits safety comparison,Use active comparator like Bupropion/Naltrexone
+Randomization,2:1 IWRS stratified,Adequate concealment,Meets standard,"None required, methodology is robust"
+Blinding,Double-blind matching placebo,Adequate masking,Risk of functional unblinding via GI side effects,Active placebo to mimic side effect profile
+Variables,"Body weight %, >=5% threshold",Clearly operationalized,Well-defined but psychiatric outcomes not primary,Include validated psychiatric AE screening variables
+Measurements,"Body weight, waist circumference, biomarkers",Validated reliable instruments,Objective measures but psychiatric assessment tools not used,Incorporate standardized psychiatric screening tools for all participants
+Data Collection,"eCRF, 68 weeks, regular visits",Standardized protocol,Comprehensive but short for chronic therapy,"Longer follow-up periods (e.g., 2-5 years) for chronic AEs"
+Statistical Analysis,"MMRM, pattern-mixture MI, dual estimands",Pre-specified SAP,"Sophisticated, appropriate, CONSORT-compliant",Time-to-event analysis for adverse events
+Reproducibility,"NCT03548935 registered, protocol available",Pre-registration + data sharing,Protocol available but individual data not public,Open data sharing of de-identified patient-level data
+Ethical Considerations,"IRB/IEC approval, informed consent, DSMB",Full ethical compliance,Meets standard; industry sponsorship disclosed,Independent academic steering committee for data analysis
+Reporting Transparency,"CONSORT, NEJM standards",Complete transparent reporting,High quality reporting but psychiatric AE details limited,Detailed granular reporting of all neuropsychiatric AEs

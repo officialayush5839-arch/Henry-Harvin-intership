@@ -1,0 +1,15 @@
+drug_class,total_reports,adr_term,adr_count,non_adr_count
+Semaglutide,100912,Depression,1730,99182
+Semaglutide,100912,Depressed Mood,520,100392
+Semaglutide,100912,Suicidal Ideation,776,100136
+Semaglutide,100912,Suicide Attempt,106,100806
+Semaglutide,100912,Anxiety,1878,99034
+Semaglutide,100912,Insomnia,1377,99535
+Semaglutide,100912,Panic Attack,253,100659
+SGLT2i,47266,Depression,496,46770
+SGLT2i,47266,Depressed Mood,116,47150
+SGLT2i,47266,Suicidal Ideation,140,47126
+SGLT2i,47266,Suicide Attempt,74,47192
+SGLT2i,47266,Anxiety,630,46636
+SGLT2i,47266,Insomnia,672,46594
+SGLT2i,47266,Panic Attack,27,47239

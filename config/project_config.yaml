@@ -1,0 +1,11 @@
+# Project Configuration
+# Pharmaceutical Research Portfolio
+
+project_name: "Pharmaceutical Research Portfolio"
+title: "Post-Marketing Pharmacovigilance of Semaglutide"
+author: "Research Intern"
+institution: "Pharmaceutical Research Internship"
+date_started: "2026-09-17"
+version: "1.0.0"
+python_version: ">=3.10"
+citation_style: "APA 7th"

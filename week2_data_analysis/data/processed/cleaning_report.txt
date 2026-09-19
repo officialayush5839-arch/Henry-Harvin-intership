@@ -1,0 +1,14 @@
+Data Cleaning Report
+====================
+Original rows: 14
+Duplicates removed: 0
+Missing values filled: 0
+Final rows: 14
+
+Data Types:
+drug_class       object
+total_reports     int64
+adr_term         object
+adr_count         int64
+non_adr_count     int64
+dtype: object
