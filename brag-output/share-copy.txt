@@ -1,0 +1,22 @@
+# Share Copy for Social & Professional Networks
+
+## X / Twitter (Short & Punchy)
+Does Semaglutide cause depression? 🔬
+We mined 148,178 FDA FAERS records & deconstructed the landmark STEP 1 trial to resolve Big Pharma's biggest post-marketing safety paradox.
+19 automated pipeline stages, 8 publication charts, 100% reproducible.
+Check out the full open-source portfolio:
+https://github.com/officialayush5839-arch/Henry-Harvin-intership
+
+## LinkedIn (Professional & Academic)
+🚀 Excited to share my complete 4-Week Pharmaceutical Research Portfolio: "Post-Marketing Pharmacovigilance and Neuropsychiatric Safety Profiling of Semaglutide (GLP-1 RA) vs. SGLT2 Inhibitors in FDA FAERS."
+
+Key scientific highlights:
+📊 Big Data Mining: Analyzed 148,178 FDA FAERS adverse event reports with active comparator controls.
+🚨 Disproportionality Testing: Identified confirmed signals for Suicidal Ideation (ROR = 2.61, p = 3.98e-27) and Panic Attack (ROR = 4.40), while detecting inverse associations for hard endpoints (Suicide Attempt: ROR = 0.67), exposing the true magnitude of media notoriety bias.
+🧪 Clinical Simulation: Designed an active-surveillance cohort protocol (N=2,000) with longitudinal psychometrics (PHQ-9, C-SSRS) and 2-hour electronic crisis alerts.
+🔍 Trial Autopsy: Critically appraised the STEP 1 trial (NEJM), uncovering why pre-approval trials missed emerging psychiatric signals.
+
+The entire project is 100% reproducible with a unified 1-click execution pipeline and open-source on GitHub:
+https://github.com/officialayush5839-arch/Henry-Harvin-intership
+
+#Pharmacovigilance #DataScience #PharmaceuticalResearch #Semaglutide #GLP1 #OpenFDA #Biostatistics #ClinicalTrials
