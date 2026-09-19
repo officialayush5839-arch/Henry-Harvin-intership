@@ -13,7 +13,7 @@
 <br/>
 
 **Pharmaceutical Research Assistant Internship — Capstone Research Portfolio**  
-**Author**: Aryan Ayush &nbsp;|&nbsp; **Institution**: Pharmaceutical Research Assistant Internship  
+**Author**: Ayush &nbsp;|&nbsp; **Institution**: Pharmaceutical Research Assistant Internship  
 **Primary Exposure**: Semaglutide (*Ozempic*, *Wegovy*, *Rybelsus*) &nbsp;|&nbsp; **Active Comparator**: SGLT2 Inhibitors (*Empagliflozin*, *Dapagliflozin*, *Canagliflozin*)  
 **Target Class**: MedDRA System Organ Class — Psychiatric Disorders (SOC 10037175)
 
@@ -253,7 +253,7 @@ If you utilize this analytical pipeline, methodology matrices, or dataset for re
 ```bibtex
 @article{ayush2026semaglutide,
   title={Post-Marketing Pharmacovigilance and Safety Profiling of Semaglutide: A Multi-Methodological Investigation of Neuropsychiatric Adverse Drug Reactions in FDA FAERS},
-  author={Ayush, Aryan},
+  author={Ayush},
   journal={Pharmaceutical Research Assistant Capstone Portfolio},
   year={2026},
   publisher={AntiGravity Enterprise Framework v2.0},
@@ -265,7 +265,7 @@ If you utilize this analytical pipeline, methodology matrices, or dataset for re
 
 <div align="center">
 
-**Developed with precision by Aryan Ayush**  
+**Developed with precision by Ayush**  
 *Pharmaceutical Research Assistant Internship • September 2026*
 
 </div>
